@@ -28,11 +28,10 @@ wheels/
 htmlcov/
 
 # Environments
-.env
-.env.local
 
 # IDEs
 .idea/
-.vscode/
 *.swp
 *.swo
+config.bat
+node_modules
